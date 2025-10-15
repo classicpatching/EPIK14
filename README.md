@@ -1,9 +1,17 @@
-# hello
+# epik14
 EPIK14 IS A NEW REVIVAL WHICH IS GOING TO BE BASED OFF ROBLOX THAT WAS IN 2014 YEAR
 IM TRYING TO RUN EPIK14 LIKE 2014 ROBLOX ANDROID WORKED
 # Info
+SOON..
 WE WILL EVENTUALLY HAVE:
-# WORKING MULTIPLAYER
-# GAME SERVERS
-# AVATARS
-# ACCOUNTS 
+ WORKING MULTIPLAYER
+ GAME SERVERS
+ AVATARS
+ ACCOUNTS 
+# fixes
+- [ ] trust check
+- [ ] patch client fully
+- [ ] fix games
+- [ ] fix avatars
+- [ ] fix groups
+- [ ] fix error
