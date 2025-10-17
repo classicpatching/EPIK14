@@ -1,5 +1,5 @@
 # revival
-epik14 is a new shitvival which is going to run like the blocks building game worked back in the 2014.
+epik14 is a new revival which is going to run like the blocks building game worked back in the 2014.
 # Information
 soon..
 we would have?
