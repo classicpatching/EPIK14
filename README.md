@@ -8,7 +8,7 @@ we would have?
 - catalog
 - users
 - groups
-# fixes
+# to do
 - [x] trust check
 - [x] game page
 - [ ] builders club page
