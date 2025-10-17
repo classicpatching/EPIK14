@@ -23,5 +23,5 @@ we would have?
 - [ ] fix groups
 - [ ] fix login error
 # progress
-15.38% android client
+- 15.38% out of 100% android client 📱
 
