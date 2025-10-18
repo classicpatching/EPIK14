@@ -9,8 +9,8 @@ let userData = {
         "UserName": "Admin",
         "UserPassword": "123456",
         "UserID": 1,
-        "RobuxBalance": 248671910,
-        "TicketsBalance": 1292818100,
+        "RobuxBalance": infinity,
+        "TicketsBalance": infinity,
         "IsAnyBuildersClubMember": true,
         "ThumbnailUrl": "https://14blox.strangled.net/getUserAvatarImage?userId=1"
     }
