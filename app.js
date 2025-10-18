@@ -12,7 +12,7 @@ let userData = {
         "RobuxBalance": 26785741,
         "TicketsBalance": 72682564,
         "IsAnyBuildersClubMember": true,
-        "ThumbnailUrl": "https://14blox.strangled.net/getUserAvatarImage?userId=1"
+        "ThumbnailUrl": "https://epik14.onrender.com/assets/ROBLOX_USER.PNG"
     }
 }
 
@@ -35,6 +35,9 @@ http.createServer(function(req, res) {
             sendf(res, "games/list.html");
         } else if (path == "/assets/logo.png") {
             sendf(res, "assets/logo.png");
+            res.end();
+        } else if (path == "/assets/ROBLOX_USER.png") {
+            sendf(res, "assets/ROBLOX_USER.png");
             res.end();
         } else if (path == "/style.css") {
             sendf(res, "assets/style.css");
