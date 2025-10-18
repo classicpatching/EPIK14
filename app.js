@@ -12,7 +12,7 @@ let userData = {
         "RobuxBalance": 26785741,
         "TicketsBalance": 72682564,
         "IsAnyBuildersClubMember": true,
-        "ThumbnailUrl": "https://epik14.onrender.com/assets/ROBLOX_USER.PNG"
+        "ThumbnailUrl": "https://epik14.onrender.com/assets/ROBLOX_USER.png"
     }
 }
 
