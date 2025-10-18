@@ -6,10 +6,10 @@ const fs = require("fs")
 let userData = {
     "Status": "OK",
     "UserInfo": {
-        "UserName": "test123",
+        "UserName": "aden",
         "UserPassword": "123",
         "UserID": 1,
-        "RobuxBalance": 150,
+        "RobuxBalance": inf,
         "TicketsBalance": 12000,
         "IsAnyBuildersClubMember": true,
         "ThumbnailUrl": "https://14blox.strangled.net/getUserAvatarImage?userId=1"
