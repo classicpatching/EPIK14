@@ -10,8 +10,8 @@ let userData = {
         "UserPassword": "123456",
         "UserID": 1,
         "RobuxBalance": 26785741,
-        "TicketsBalance": "infinity",
-        "IsAnyBuildersClubMember": false,
+        "TicketsBalance": 72682564,
+        "IsAnyBuildersClubMember": true,
         "ThumbnailUrl": "https://14blox.strangled.net/getUserAvatarImage?userId=1"
     }
 }
